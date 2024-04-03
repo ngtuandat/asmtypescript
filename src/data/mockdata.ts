@@ -91,7 +91,7 @@ export const TicketInfos = [
   },
   {
     images: "/images/ticket.svg",
-    car: "Hải Phòng Travel (Đất Cảng)",
+    car: "Hải Phòng Travel (Đất Cảng).",
     start: {
       time: "19:00",
       location: "• Hà Nội",
