@@ -1,4 +1,4 @@
-import { ITicketInfo } from "../../types/interface";
+import { ITicketInfo, ITrip } from "../../types/interface";
 
 const TicketInfomation = ({ ticketInfo }: { ticketInfo: ITicketInfo }) => {
   return (
